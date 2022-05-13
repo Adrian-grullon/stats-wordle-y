@@ -12,7 +12,7 @@
   
   #container {
     display: flex;
-    background-color: black;
+    background-color: #FFC0CB;
     height: 100%;
     align-items: center;
     flex-direction: column;
